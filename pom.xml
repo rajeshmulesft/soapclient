@@ -33,12 +33,12 @@
 				
 				<cloudHubDeployment>
 			<uri>https://anypoint.mulesoft.com/</uri>
-			<muleVersion>4.3</muleVersion>
+			<muleVersion>4.3.0</muleVersion>
 			<username>rajesh052021</username>
 			<password>MUL22soft</password>
 			<applicationName>${project.artifactId}</applicationName>
 			<environment>Sandbox</environment>
-			<workerType>micro</workerType>
+			<workerType>MICRO</workerType>
 			<workers>1</workers>
 			<objectStoreV2>true</objectStoreV2>
 			
